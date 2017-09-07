@@ -7,6 +7,7 @@ function forLoop(array) { //array is ["I am 0 strange loops", "I am 1 strange lo
     }
   } return array
   }
+<<<<<<< HEAD
 
 
 function whileLoop(number) {
@@ -26,3 +27,5 @@ function doWhileLoop(array) {
   do {array.shift();}
 while (array.length > 0 && maybeTrue() );
 return array }
+=======
+>>>>>>> 108eae6d0dedcca3d7af1473ce0236bb24d0fd24
